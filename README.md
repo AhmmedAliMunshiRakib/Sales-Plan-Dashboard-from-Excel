@@ -40,9 +40,7 @@ KPI Tracking & Reporting
 
 
 
-https://github.com/user-attachments/assets/94677222-ac74-4c6c-b216-6f2e73ca2465
-
-
+https://github.com/user-attachments/assets/ea2f4880-9007-4bbc-9c0e-eab452805cb8
 
 
 
