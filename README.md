@@ -39,16 +39,13 @@ KPI Tracking & Reporting
 ## Dashboard video
 
 
-https://github.com/user-attachments/assets/1cbe7126-db09-4164-8922-de9c1c140e74
+
+https://github.com/user-attachments/assets/94677222-ac74-4c6c-b216-6f2e73ca2465
 
 
 
-## 🔗 GitHub Project Link
 
-You can download or preview the project here: 
-preview: https://github.com/AhmmedAliMunshiRakib/Sales-Plan-Dashboard-from-Excel-/blob/main/Sales%20plan%20Dashbaord.jpg
 
-download : https://github.com/AhmmedAliMunshiRakib/Sales-Plan-Dashboard-from-Excel-/raw/refs/heads/main/Sales%20plan%20Dashbaord.xlsx
 
 ## 📬 Contact
 
